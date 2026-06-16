@@ -1,0 +1,20 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# R intermediate objects (regenerable from scripts)
+Outputs/Objects/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Temp / IDE
+*.tmp
+*.log
+*~
